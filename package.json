@@ -30,7 +30,7 @@
 		"fast-deep-equal": "^2.0.1",
 		"file-manager": "^1.0.1",
 		"languages": "^0.1.3",
-		"steamcommunity": "github:endze1t/node-steamcommunity#getTradePartnerInventory",
+		"steamcommunity": "github:endze1t/node-steamcommunity",
 		"steamid": "^1.1.0"
 	},
 	"devDependencies": {
